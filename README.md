@@ -1,0 +1,2 @@
+# Myscript.lua
+Xnxnxnsn
